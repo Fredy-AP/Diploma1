@@ -1,0 +1,15 @@
+header{
+  position: relative;
+}
+h1{
+  position: absolute;
+  bottom: 20px;
+  left: 50px;
+  color: #fff;
+  z-index: 1;
+}
+
+figure img{
+  width: 100%;
+  height: 100%;
+}
